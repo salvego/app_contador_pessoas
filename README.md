@@ -2,6 +2,8 @@
 
 Contador de pessoas
 
+Este Projeto foi feito em Flutter
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
