@@ -2,7 +2,7 @@
 
 Contador de pessoas
 
-Este Projeto foi feito em Flutter
+Aplicativo desenvolvido em Flutter
 
 ## Getting Started
 
